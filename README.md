@@ -1,2 +1,2 @@
 # -Tic-Tac-Game
-this is game which make bt using html,css and ,java-script
+this is game which make by using html,css and ,java-script
